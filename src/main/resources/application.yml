@@ -1,0 +1,3 @@
+scheduled:
+  stay:
+    cronString: ${SCHEDULED_STAY_CRONSTRING}
